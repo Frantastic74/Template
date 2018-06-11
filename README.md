@@ -6,7 +6,7 @@ Anyone can have a GitHub account, and you can even use your personal GitHub alia
 This guidance is more of how to use this style, in Word form, and also as a WYSIWYG by authoring in GitHub. 
 
 ## Applying Headings  
-Create headings, by typing the pound symbold, add space and Heading content. A H1 is # <Heading name>, H2 is ## <title> etc.first header above is the 1:1 size of a H1 in Word or Github. Each pound (#) you add will decrease the heading size. Headings 1 & 2 are the 1st types in this document, 3 - 6 appear as follows:  
+Create headings, by typing the pound symbold, add space and Heading content. A H1 is # <Heading name>, H2 is ## <title> etc. Each pound (#) you add will decrease the heading size. Headings 1 & 2 are the 1st types in this document, 3 - 6 appear as follows:  
 # Heading 1
 ## Heading 2
 ### Heading 3  
